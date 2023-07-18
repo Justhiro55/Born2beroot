@@ -1,5 +1,9 @@
 # Born2beroot
 
+
+<img width="614" alt="スクリーンショット 2023-07-18 15 19 21" src="https://github.com/Justhiro55/Born2beroot/assets/77094170/cfe174de-27f8-43cb-9972-d1314fee1888">
+
+
 1. setting up Debian
     1. installation of Debian 2.
     2. language and keyboard setup
@@ -289,4 +293,3 @@ Connect to the SSH server
     
     </aside>
 
-<img width="614" alt="スクリーンショット 2023-07-18 15 19 21" src="https://github.com/Justhiro55/Born2beroot/assets/77094170/cfe174de-27f8-43cb-9972-d1314fee1888">
